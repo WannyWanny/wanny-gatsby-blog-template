@@ -2,18 +2,18 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `wanny-backend.com`,
+  description: `와니의 개발실록`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  siteUrl: `https://wanny-backend.com/`,
+  ogImage: `/og-image.jpeg`, // Path to your in the 'static' folder
 
   /**
    * comments setting
    */
   comments: {
     utterances: {
-      repo: ``, //`danmin20/danmin-gatsby-blog`,
+      repo: ``,
     },
   },
 
@@ -21,18 +21,18 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `이완희`,
+    nickname: `Wanny`,
+    stack: ['Backend', 'Java/Kotlin', 'Spring Boot'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `lejent3@naver.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      bachelorDegree: 'SeoKyeong Univ. Computer Engineering (2013.03-2020.02)',
     },
     social: {
-      github: `https://github.com/danmin20`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
-      resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      github: `https://github.com/WannyWanny`,
+      linkedIn: `https://www.linkedin.com/in/%EC%99%84%ED%9D%AC-%EC%9D%B4-670823234/`,
+      resume: ``,
     },
     dropdown: {
       tistory: 'https://danminblog.tistory.com/',
@@ -108,7 +108,6 @@ export default {
    */
   remittances: {
     toss: {
-      link: 'https://toss.me/danmin',
       qrCode: 'toss_qr.svg', // Path to your in the 'assets' folder
     },
     kakaopay: {
